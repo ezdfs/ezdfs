@@ -8,4 +8,5 @@
 
 ## Projects 💡
 
-- [**MuxVim**](https://github.com/ezdfs/muxvim.git): Neovim configuration and helper setup designed to make Neovim comfortable and productive on mobile devices (phones and tablets). 
+- [**MuxVim**](https://github.com/ezdfs/muxvim.git): Neovim configuration and helper setup designed to make Neovim comfortable and productive on mobile devices (phones and tablets).
+- [**Questions API**](https://github.com/ezdfs/questoes-api): I'm developing an API to make a entire repository of questions to helps on study.
