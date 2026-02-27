@@ -9,5 +9,5 @@
 ## Projects 💡
 
 - [**MuxVim**](https://github.com/ezdfs/muxvim.git): Neovim configuration and helper setup designed to make Neovim comfortable and productive on mobile devices (phones and tablets).
-- [**Questions API**](https://github.com/ezdfs/questoes-api): I'm developing an API to make a entire repository of questions to helps on study.
-- [**Autoestudo**](https://github.com/ezdfs/autoestudo): I'm developing an auxiliar application to studies using ReactJS and Rust.
+- [**Questions API**](https://github.com/ezdfs/questoes-api): I'm developing an API to make a entire repository of questions to helps on study using Spring Boot, Docker and MongoDB. Furthermore good use of Hexagonal Architecture and learning a lot.
+- [**Autoestudo**](https://github.com/ezdfs/autoestudo): I'm developing an auxiliar application to studies using ReactJS and Rust. Currently, it's break, but I will fix it soon.
