@@ -23,3 +23,32 @@ Currently I'm learning about System Design, Clean Architecture, Hexagonal Archit
 
 ## Future plans 🗺️
 I'm interesting in learning Klotin and C#. But for now, it's not my main goal.
+
+# PT-BR 🇧🇷
+
+> [!NOTE]
+> Sou um eterno aprendiz em busca de melhorar meu inglês, por conta disso, 90% do que faço em programação está em inglês. Meu celular está em inglês, notebook, documentação e projetos. Irei tentar deixar versões em português, mas posso esquecer às vezes.
+
+## Olá 👋
+## Sobre mim🧐😁
+🚀 Sou um desenvolvedor focado em **_desempenho_**, **_minimalismo_** e **_produtividade_**, me especializando em transformar ambientes com recursos limitados em estações de trabalho de alto desempenho.
+
+⚡ Minha abordagem de desenvolvimento se baseia no controle total do software. Se algo não for eficiente ou rápido, eu farei com que seja.
+
+## Projetos 💡
+
+- [**Org Microdados ENEM**](https://github.com/ezdfs/org-microdados-enem): Extração de dados do ENEM (Exame Nacional do Ensino Médio). Extraí as questões de PDFs e as converti em arquivos JSON e CSV de forma semiautomática.
+- [**API de Questões**](https://github.com/ezdfs/questoes-api): Estou desenvolvendo uma API para criar um repositório completo de questões para auxiliar nos estudos, utilizando Spring Boot, Docker e MongoDB. Além disso, estou fazendo bom uso da Arquitetura Hexagonal e aprendendo muito.
+- [**Autoestudo**](https://github.com/ezdfs/autoestudo): Estou desenvolvendo um aplicativo auxiliar para estudos usando ReactJS e Rust. Atualmente, está com problemas, mas irei corrigi-los em breve.
+- [**MuxVim**](https://github.com/ezdfs/muxvim.git): Configuração e auxiliares do Neovim projetados para tornar o uso do Neovim confortável e produtivo em dispositivos móveis (celulares e tablets).
+
+## Skills 🧠
+Minha principal stack é Java com Spring Boot e JS/TS com ReactJS ou NextJS. Mas também posso:
+
+- Desenvolver aplicações com Python, como APIs com Flask, extração de dados e, em meus planos futuros, otimizar o LLM para diferentes finalidades.
+- Desenvolver aplicações full-stack com JS/TS como ReactJS + Express.js, Nest.js, Fastify, etc.
+
+Atualmente estou aprendendo sobre Design de Sistemas, Arquitetura Limpa, Arquitetura Hexagonal e Kubernetes. Além disso, também estou aprimorando minhas habilidades em organização de projetos e Docker.
+
+## Planos futuros 🗺️
+Tenho interesse em aprender Kotlin e C#. Mas, por enquanto, não é meu objetivo principal.
