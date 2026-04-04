@@ -35,9 +35,7 @@
 ### 💡 Featured Projects
 
 - [**MuxVim**](https://github.com/ezdfs/muxvim.git) 📱: Neovim setup optimized for mobile productivity (Termux/Tablets).
-- [**Questions API**](https://github.com/ezdfs/questoes-api) 📚: High-standard Study API (Spring Boot, Hexagonal Arch, Docker).
 - [**Org Microdados ENEM**](https://github.com/ezdfs/org-microdados-enem) 📊: Data scraping and conversion tool (PDF to JSON/CSV).
-- [**Autoestudo**](https://github.com/ezdfs/autoestudo) 🦀: Study assistant built with ReactJS and Rust.
 
 ---
 
